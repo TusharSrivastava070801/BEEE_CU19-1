@@ -1,0 +1,16 @@
+
+THEORY -->
+Concept:   Concept of Arduino ,Loops concept,Basics of C language so that coding of Arduino can be written.
+
+Learning and Observations:
+                            The Observations made are that the LED flahes when connnected to the Arduino as the it provides a paticular voltage 
+                            to LED complte the circit.The CODE written when uploaded to the Arduino hardware it the follows the code provided 
+                            and functins accordingly.
+
+Problems and Troubleshooting:
+                             
+                             The problems faced during the circuit and Arduino hardware is that sometimes the second wire is not connected 
+                             to the ground and so the circuit do not functions.the Troubleshoot for this problem is proper wiring.
+                             
+                             Problems in the code happens mostly in assigning the terminal number in the code  and so the program does not
+                             get stimulated and sometimes LOW function when not assigned also causes trouble
