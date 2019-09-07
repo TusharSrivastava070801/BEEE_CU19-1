@@ -13,4 +13,15 @@ Problems and Troubleshooting:
                              to the ground and so the circuit do not functions.the Troubleshoot for this problem is proper wiring.
                              
                              Problems in the code happens mostly in assigning the terminal number in the code  and so the program does not
-                             get stimulated and sometimes LOW function when not assigned also causes trouble
+                             get stimulated and sometimes LOW function when not assigned also causes trouble.
+                             
+                             When the IDE shows error while compiling the code.Always check that path and model of Arduino is correctly set
+                             to the Correct model of Arduino hardware used.
+                             
+Precautions:                 Various precautions can be taken during this like ensuring proper connection of wires around LED,resitor,Arduino
+                             and check path and model set to Arduino UNO3 in the Arduino IDE.
+
+Outcomes:                    The outcomes of the project is that the LED flashes accordingly to the code uploded to the arduino and the output
+                             can be changed by doing some changes in the code and uploading it.We can even set the time for delay for glow 
+                             of the LED.
+                             
