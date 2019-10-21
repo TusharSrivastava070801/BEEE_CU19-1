@@ -1,0 +1,28 @@
+###Theory-->
+      CONCEPT-->> Basics of Arduino , if Conditional Statements,Connection of devices like PushButton,LED with Arduino.
+                  Usage of TinkerCAD and Connections.
+      
+      
+      
+      LEARNING AND OBSERVATIONS-->> I Observed that When the almirah's door gets opened then the Pushbutton attached to that door gets
+                                    pressed and it Switches on the LED and that LED most importantly remains on until the PushButton 
+                                    is released by closing the door.
+                                    I Understood the concept of controlling the LED with PushButton and connection of Arduino with this
+                                    Apparatus.
+      
+      
+      PROBLEMS AND TROUBLESHOOTING -->> The problem which occured during this experiment was that during connection of wires the LED 
+                                        got the reverse biasing and so it was not glowing .Another problem occured that during the 
+                                        connection with the pushbutton grounding was not given to it.Connect the wires to the pushButton
+                                        Correctly.
+                                        
+      PRECAUTIONS-->>                   Check all the connections are correct . Place the setup in a stable form so that the experiment 
+                                        goes without any trouble.Check all the equipments are working including Arduino and the cable.
+     
+      
+      LEARNING OUTCOMES --> Alot of learning outcomes came .I learned about that how we take a reading from a device using digitalRead()
+                            Also I learned that Always first draw a rough sketch of your circuit before connecting the actual things 
+                            which would decrease the danger of any shortcircuit or shortwiring.
+      
+      
+      
