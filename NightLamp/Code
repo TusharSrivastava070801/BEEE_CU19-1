@@ -1,0 +1,26 @@
+int LedPin = 12;
+int Sensor = A0;
+int SensorValue = 0;
+void setup()
+{
+  pinMode(Sensor,INPUT);
+  pinMode(LedPin,OUTPUT);
+  Serial.begin(9600);
+  
+}
+void loop()
+{
+  SensorValue = analogRead(Sensor);
+  Serial.println(SensorValue);
+  if(SensorValue<900)
+  {
+    digitalWrite(LedPin,HIGH);
+    delay(500);
+  }
+  else
+  {
+    digitalWrite(LedPin,LOW);
+    delay(500);
+  }
+  
+}
